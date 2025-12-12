@@ -7,19 +7,19 @@ Overview
 
 Steps Performed in the Notebook
 
-   Loaded dataset using Pandas
+      Loaded dataset using Pandas
    
-   Checked missing values
+      Checked missing values
    
-   Cleaned missing data using:
+      Cleaned missing data using:
    
-      Mean for numeric fields
+             Mean for numeric fields
       
-      Placeholder for categorical fields
-      
-   Demonstrated NumPy operations
+             Placeholder for categorical fields
+       
+     Demonstrated NumPy operations
    
-   Saved cleaned dataset
+     Saved cleaned dataset
 
 Requirements
      
