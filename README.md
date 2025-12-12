@@ -133,7 +133,7 @@ What This Project Includes
 
 📁 Files in This Repo
 
-                    data_clean.py – Notebook with full cleaning steps
+                    data_clean.py – coding with full cleaning steps
   
                     data_raw.csv – Original dataset
    
