@@ -8,11 +8,17 @@ Overview
 Steps Performed in the Notebook
 
    Loaded dataset using Pandas
+   
    Checked missing values
+   
    Cleaned missing data using:
+   
       Mean for numeric fields
+      
       Placeholder for categorical fields
+      
    Demonstrated NumPy operations
+   
    Saved cleaned dataset
 
 Requirements
